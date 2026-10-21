@@ -1,0 +1,1881 @@
+{
+  "synthetic": true,
+  "anchor": "2026-10-20",
+  "version": 1,
+  "revision": 0,
+  "catalog": [
+    {
+      "symbol": "DEMO-AURORA",
+      "name": "Aurora Energy",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Energetyka",
+      "url": "",
+      "baseClose": 132
+    },
+    {
+      "symbol": "DEMO-NORTH",
+      "name": "Northstar Software",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Technologia",
+      "url": "",
+      "baseClose": 48
+    },
+    {
+      "symbol": "DEMO-BALTIC",
+      "name": "Baltic Logistics",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Logistyka",
+      "url": "",
+      "baseClose": 205
+    },
+    {
+      "symbol": "DEMO-HELIOS",
+      "name": "Helios Health",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Zdrowie",
+      "url": "",
+      "baseClose": 76
+    },
+    {
+      "symbol": "DEMO-COBALT",
+      "name": "Cobalt Industry",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Przemysł",
+      "url": "",
+      "baseClose": 61
+    },
+    {
+      "symbol": "DEMO-SUMMIT",
+      "name": "Summit Retail",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Handel",
+      "url": "",
+      "baseClose": 110
+    },
+    {
+      "symbol": "DEMO-RIVER",
+      "name": "River Networks",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Technologia",
+      "url": "",
+      "baseClose": 38
+    },
+    {
+      "symbol": "DEMO-WORLD",
+      "name": "Atlas World ETF",
+      "currency": "USD",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "baseClose": 95
+    },
+    {
+      "symbol": "DEMO-BALANCE",
+      "name": "Horizon Balanced ETF",
+      "currency": "EUR",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "baseClose": 67
+    },
+    {
+      "symbol": "DEMO-BONDS",
+      "name": "Terra Bond ETF",
+      "currency": "EUR",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "baseClose": 41
+    }
+  ],
+  "products": [
+    {
+      "symbol": "DEMO-AURORA",
+      "name": "Aurora Energy",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Energetyka",
+      "url": "",
+      "id": 1,
+      "quantity": 25,
+      "account": "Broker Alfa · rachunek",
+      "value": 3300,
+      "capital": 2946.43,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-04-04",
+      "quote": {
+        "close": 132,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-NORTH",
+      "name": "Northstar Software",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Technologia",
+      "url": "",
+      "id": 2,
+      "quantity": 80,
+      "account": "Broker Alfa · rachunek",
+      "value": 3840,
+      "capital": 4085.11,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-03-26",
+      "quote": {
+        "close": 48,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-BALTIC",
+      "name": "Baltic Logistics",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Logistyka",
+      "url": "",
+      "id": 3,
+      "quantity": 12,
+      "account": "Broker Alfa · rachunek",
+      "value": 2460,
+      "capital": 2256.88,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-03-17",
+      "quote": {
+        "close": 205,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-HELIOS",
+      "name": "Helios Health",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Zdrowie",
+      "url": "",
+      "id": 4,
+      "quantity": 40,
+      "account": "Broker Alfa · rachunek",
+      "value": 3040,
+      "capital": 2923.08,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-03-08",
+      "quote": {
+        "close": 76,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-COBALT",
+      "name": "Cobalt Industry",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Przemysł",
+      "url": "",
+      "id": 5,
+      "quantity": 65,
+      "account": "Broker Alfa · rachunek",
+      "value": 3965,
+      "capital": 3388.89,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-02-27",
+      "quote": {
+        "close": 61,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-SUMMIT",
+      "name": "Summit Retail",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Handel",
+      "url": "",
+      "id": 6,
+      "quantity": 18,
+      "account": "Broker Alfa · rachunek",
+      "value": 1980,
+      "capital": 2041.24,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-02-18",
+      "quote": {
+        "close": 110,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-RIVER",
+      "name": "River Networks",
+      "currency": "PLN",
+      "type": "Akcje",
+      "sector": "Technologia",
+      "url": "",
+      "id": 7,
+      "quantity": 100,
+      "account": "Broker Alfa · rachunek",
+      "value": 3800,
+      "capital": 3551.4,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-02-09",
+      "quote": {
+        "close": 38,
+        "currency": "PLN",
+        "date": "2026-10-20",
+        "fx": 1,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-WORLD",
+      "name": "Atlas World ETF",
+      "currency": "USD",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "id": 8,
+      "quantity": 34,
+      "account": "Broker Alfa · rachunek",
+      "value": 12920,
+      "capital": 11639.64,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-01-31",
+      "quote": {
+        "close": 95,
+        "currency": "USD",
+        "date": "2026-10-20",
+        "fx": 4,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-BALANCE",
+      "name": "Horizon Balanced ETF",
+      "currency": "EUR",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "id": 9,
+      "quantity": 51,
+      "account": "Broker Beta · IKE",
+      "value": 14693.1,
+      "capital": 13861.42,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-01-22",
+      "quote": {
+        "close": 67,
+        "currency": "EUR",
+        "date": "2026-10-20",
+        "fx": 4.3,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-WORLD",
+      "name": "Atlas World ETF",
+      "currency": "USD",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "id": 10,
+      "quantity": 28,
+      "account": "Broker Beta · IKE",
+      "value": 10640,
+      "capital": 9415.93,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-01-13",
+      "quote": {
+        "close": 95,
+        "currency": "USD",
+        "date": "2026-10-20",
+        "fx": 4,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "symbol": "DEMO-BONDS",
+      "name": "Terra Bond ETF",
+      "currency": "EUR",
+      "type": "ETF-y",
+      "sector": "Wielobranżowe",
+      "url": "",
+      "id": 11,
+      "quantity": 42,
+      "account": "Broker Alfa · rachunek",
+      "value": 7404.6,
+      "capital": 7224,
+      "auto": true,
+      "added": "2026-07-28",
+      "updated": "2026-10-20",
+      "purchaseDate": "2026-01-04",
+      "quote": {
+        "close": 41,
+        "currency": "EUR",
+        "date": "2026-10-20",
+        "fx": 4.3,
+        "fxDate": "2026-10-20",
+        "source": "synthetic"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Obligacje demonstracyjne · seria A",
+      "type": "Obligacje",
+      "sector": "Obligacje skarbowe",
+      "symbol": "",
+      "url": "",
+      "quantity": 180,
+      "account": "Agent Gamma · obligacje",
+      "value": 18450,
+      "capital": 18000,
+      "auto": false,
+      "added": "2026-07-28",
+      "updated": "2026-10-15",
+      "purchaseDate": "2026-02-22",
+      "quote": null
+    },
+    {
+      "id": 13,
+      "name": "Obligacje demonstracyjne · seria B",
+      "type": "Obligacje",
+      "sector": "Obligacje skarbowe",
+      "symbol": "",
+      "url": "",
+      "quantity": 70,
+      "account": "Agent Gamma · obligacje",
+      "value": 7350,
+      "capital": 7000,
+      "auto": false,
+      "added": "2026-07-28",
+      "updated": "2026-10-02",
+      "purchaseDate": "2026-02-22",
+      "quote": null
+    },
+    {
+      "id": 14,
+      "name": "Portfel zarządzany · przykład",
+      "type": "Portfel zarządzany",
+      "sector": "Wielobranżowe",
+      "symbol": "",
+      "url": "",
+      "quantity": null,
+      "account": "Platforma Delta",
+      "value": 26300,
+      "capital": 24000,
+      "auto": false,
+      "added": "2026-07-28",
+      "updated": "2026-10-16",
+      "purchaseDate": "2026-02-22",
+      "quote": null
+    },
+    {
+      "id": 15,
+      "name": "Rezerwa oszczędnościowa",
+      "type": "Gotówka",
+      "sector": "Gotówka",
+      "symbol": "",
+      "url": "",
+      "quantity": null,
+      "account": "Bank Epsilon",
+      "value": 31700,
+      "capital": 31000,
+      "auto": false,
+      "added": "2026-07-28",
+      "updated": "2026-09-29",
+      "purchaseDate": "2026-02-22",
+      "quote": null
+    },
+    {
+      "id": 16,
+      "name": "Środki na przyszłe zakupy",
+      "type": "Gotówka",
+      "sector": "Gotówka",
+      "symbol": "",
+      "url": "",
+      "quantity": null,
+      "account": "Broker Alfa",
+      "value": 6400,
+      "capital": 6400,
+      "auto": false,
+      "added": "2026-07-28",
+      "updated": "2026-10-17",
+      "purchaseDate": "2026-02-22",
+      "quote": null
+    }
+  ],
+  "history": [
+    {
+      "at": "2026-07-28T16:00:00.000Z",
+      "date": "2026-07-28",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3102,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3648.37,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2339.24,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2862.75,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3691.09,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1838.42,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3559.26,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12246.66,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 13985.95,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10054.22,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 6911.98,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17121.6,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 6861.67,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 24854.6,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30174.83,
+          "updated": "2026-07-28"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6065.94,
+          "updated": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T16:00:00.000Z",
+      "date": "2026-08-04",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3142.03,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3674.78,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2338.99,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2855.48,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3699.48,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1856.78,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3606.77,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12360.78,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14010.03,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10027.99,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 6914.16,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17257.77,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 6951.92,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25130.34,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30290.48,
+          "updated": "2026-08-04"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6053.49,
+          "updated": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "at": "2026-08-11T16:00:00.000Z",
+      "date": "2026-08-11",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3172.85,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3683.19,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2333.14,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2854.99,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3726.45,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1880.75,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3648.11,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12415.64,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 13985.15,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10012.25,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 6948.91,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17463.42,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7039.75,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25297.7,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30275.39,
+          "updated": "2026-08-11"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6038.9,
+          "updated": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "at": "2026-08-18T16:00:00.000Z",
+      "date": "2026-08-18",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3188.86,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3677.82,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2328.8,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2867.42,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3769.19,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1904.82,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3674.53,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12415.06,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 13949.82,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10034,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7017.11,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17694.15,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7105.17,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25342.65,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30197.51,
+          "updated": "2026-08-18"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6040.39,
+          "updated": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "at": "2026-08-25T16:00:00.000Z",
+      "date": "2026-08-25",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3190.23,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3668.29,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2332.49,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2893.86,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3818.74,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1923.44,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3683.13,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12384.54,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 13946.62,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10105.54,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7106.56,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17895.76,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7136.95,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25299.06,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30149.38,
+          "updated": "2026-08-25"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6069.92,
+          "updated": "2026-08-25"
+        }
+      ]
+    },
+    {
+      "at": "2026-09-01T16:00:00.000Z",
+      "date": "2026-09-01",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3182.91,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3665.86,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2347.57,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2929.91,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3863.46,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1933.19,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3677.97,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12361.32,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14005.57,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10219.7,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7196.74,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18025.43,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7137.04,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25235.49,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30211.89,
+          "updated": "2026-09-01"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6128.44,
+          "updated": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "at": "2026-09-08T16:00:00.000Z",
+      "date": "2026-09-08",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3176.2,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3678.98,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2372.96,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2967.4,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3893.6,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1934.14,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3668.52,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12379.79,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14132.36,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10352.61,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7266.83,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18068.51,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7119.8,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25228.29,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30422.61,
+          "updated": "2026-09-08"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6205.59,
+          "updated": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "at": "2026-09-15T16:00:00.000Z",
+      "date": "2026-09-15",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3179.21,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3710.04,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2403.53,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 2997.61,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3905.13,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1929.79,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3665.91,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12458.01,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14306.1,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10473.07,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7303.9,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18044.26,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7106.35,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25331.76,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 30761.12,
+          "updated": "2026-09-15"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6283.68,
+          "updated": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "at": "2026-09-22T16:00:00.000Z",
+      "date": "2026-09-22",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3197.2,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3754.39,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2432.13,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 3014.66,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3901.29,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1925.72,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3678.61,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12590.63,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14487.54,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10554.74,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7307.92,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17998.27,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7116.35,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25556.89,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 31156.92,
+          "updated": "2026-09-22"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6344.67,
+          "updated": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "at": "2026-09-29T16:00:00.000Z",
+      "date": "2026-09-29",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3229.6,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3802.2,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2452.38,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 3017.83,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3891.35,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1927.39,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3709.07,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12751.04,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14634.42,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10586.49,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7291.82,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 17984.67,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7160.27,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 25867,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 31517.13,
+          "updated": "2026-09-29"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6377.21,
+          "updated": "2026-09-29"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-06T16:00:00.000Z",
+      "date": "2026-10-06",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3270.18,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3842.25,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2461.17,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 3011.83,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3886.96,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1938.03,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3752.82,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12901.72,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14717.98,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10576.7,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7276.38,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18044.9,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7235.31,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 26192.19,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 31762.79,
+          "updated": "2026-10-06"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6381.09,
+          "updated": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-13T16:00:00.000Z",
+      "date": "2026-10-13",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3309.52,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3866.39,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2459.87,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 3004.95,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3897.6,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1957.35,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3800.16,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 13008.98,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14734.29,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10550.04,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7282.15,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18191.48,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7326.47,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 26456.63,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 31859.76,
+          "updated": "2026-10-13"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6367.32,
+          "updated": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-20T16:00:00.000Z",
+      "date": "2026-10-20",
+      "reason": "synthetic",
+      "assets": [
+        {
+          "id": 1,
+          "capital": 2946.43,
+          "value": 3300,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 2,
+          "capital": 4085.11,
+          "value": 3840,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 3,
+          "capital": 2256.88,
+          "value": 2460,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 4,
+          "capital": 2923.08,
+          "value": 3040,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 5,
+          "capital": 3388.89,
+          "value": 3965,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 6,
+          "capital": 2041.24,
+          "value": 1980,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 7,
+          "capital": 3551.4,
+          "value": 3800,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 8,
+          "capital": 11639.64,
+          "value": 12920,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 9,
+          "capital": 13861.42,
+          "value": 14693.1,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 10,
+          "capital": 9415.93,
+          "value": 10640,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 11,
+          "capital": 7224,
+          "value": 7404.6,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 12,
+          "capital": 18000,
+          "value": 18450,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 13,
+          "capital": 7000,
+          "value": 7350,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 14,
+          "capital": 24000,
+          "value": 26300,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 15,
+          "capital": 31000,
+          "value": 31700,
+          "updated": "2026-10-20"
+        },
+        {
+          "id": 16,
+          "capital": 6400,
+          "value": 6400,
+          "updated": "2026-10-20"
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "demo-quarter",
+      "companyId": "DEMO-NORTH",
+      "type": "report",
+      "title": "SYMULACJA · Northstar: raport kwartalny",
+      "text": "Fikcyjna publikacja do prezentacji interfejsu. Nie jest komunikatem rynkowym.",
+      "time": "Demo · 2026-10-19",
+      "url": "",
+      "sourceName": "Generator demonstracyjny",
+      "read": false
+    },
+    {
+      "id": "demo-calendar",
+      "companyId": "DEMO-BALTIC",
+      "type": "calendar",
+      "title": "SYMULACJA · Baltic: termin raportu kwartalnego",
+      "text": "Fikcyjny termin; nie dotyczy rzeczywistego emitenta.",
+      "time": "Termin demo: 2026-11-01",
+      "eventDate": "2026-11-01",
+      "url": "",
+      "sourceName": "Generator demonstracyjny",
+      "read": false
+    },
+    {
+      "id": "demo-dividend",
+      "companyId": "DEMO-AURORA",
+      "type": "dividend",
+      "title": "SYMULACJA · Aurora: zatwierdzona dywidenda",
+      "text": "Fikcyjna decyzja. Służy pokazaniu stawki i terminów, bez naliczania rzeczywistego przychodu.",
+      "time": "Demo · 2026-10-17",
+      "url": "",
+      "sourceName": "Generator demonstracyjny",
+      "publicationDate": "2026-10-17",
+      "read": false,
+      "dividend": {
+        "status": "approved",
+        "perShare": 1.8,
+        "currency": "PLN",
+        "recordDate": "2026-10-21",
+        "paymentDate": "2026-10-28",
+        "exDate": null
+      }
+    },
+    {
+      "id": "demo-price",
+      "companyId": "DEMO-COBALT",
+      "type": "price",
+      "title": "SYMULACJA · Cobalt: +6,2%",
+      "text": "Przykładowy ruch ceny pomiędzy dwiema fikcyjnymi sesjami.",
+      "time": "Demo · 2026-10-20",
+      "url": "",
+      "sourceName": "Generator demonstracyjny",
+      "read": true
+    }
+  ],
+  "watch": [
+    "DEMO-AURORA",
+    "DEMO-NORTH",
+    "DEMO-BALTIC",
+    "DEMO-HELIOS",
+    "DEMO-COBALT",
+    "DEMO-SUMMIT",
+    "DEMO-RIVER"
+  ],
+  "rules": {
+    "reports": true,
+    "price": true,
+    "dividends": true,
+    "threshold": 5,
+    "frequency": "daily"
+  },
+  "quotes": {},
+  "attempts": {},
+  "fx": {},
+  "reportIds": [],
+  "reportScan": null,
+  "reportError": null,
+  "quota": null,
+  "hasKey": false
+}

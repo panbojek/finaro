@@ -1,0 +1,16 @@
+{
+  "name": "finaro-demo",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Lokalny dashboard fikcyjnego portfela inwestycyjnego",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node kod/runtime/server.mjs",
+    "test": "node tests/run.mjs",
+    "fixture": "node scripts/generate-fixture.mjs"
+  },
+  "license": "MIT"
+}
