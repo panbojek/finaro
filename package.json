@@ -12,5 +12,13 @@
     "test": "node tests/run.mjs",
     "fixture": "node scripts/generate-fixture.mjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panbojek/finaro.git"
+  },
+  "homepage": "https://github.com/panbojek/finaro#readme",
+  "bugs": {
+    "url": "https://github.com/panbojek/finaro/issues"
+  }
 }

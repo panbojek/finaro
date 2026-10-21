@@ -1,5 +1,7 @@
 # Finaro demo
 
+[Repozytorium GitHub](https://github.com/panbojek/finaro) · [Pobierz projekt](https://github.com/panbojek/finaro/archive/refs/heads/main.zip) · [Zgłoś problem](https://github.com/panbojek/finaro/issues)
+
 **Lokalny przegląd portfela inwestycyjnego dla Windows 10/11.** Obecna wersja nie działa na macOS ani Linuxie.
 
 Wszystkie spółki, rachunki, kwoty, ceny, historia i alerty w tej edycji są fikcyjne. Możesz obejrzeć działające demo, a potem z pomocą Claude Code dostosować swoją wersję programu do własnych inwestycji. Do obejrzenia demo nie potrzebujesz konta maklerskiego ani klucza do notowań.

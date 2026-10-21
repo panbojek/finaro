@@ -1,6 +1,8 @@
 # Jak udostępnić paczkę na GitHubie
 
-Przygotowanie tej paczki nie publikuje niczego automatycznie. Utwórz własne repozytorium, gdy będziesz gotowy udostępnić kod.
+Repozytorium projektu: [panbojek/finaro](https://github.com/panbojek/finaro). Kod i dokumentację pobierzesz przez **Code → Download ZIP**. Dostęp do prywatnego repozytorium wymaga uprawnień.
+
+Poniższe kroki dotyczą publikacji własnej wersji projektu w nowym repozytorium. Samo uruchomienie Finaro niczego nie publikuje.
 
 ## Autorstwo i pierwszy commit
 
@@ -26,7 +28,7 @@ Zainstaluj aplikację z oficjalnej strony desktop.github.com, zaloguj się i dod
 
 ## Lista przed publikacją
 
-- Uzupełniony rzeczywisty adres repozytorium w docs/URUCHOMIENIE-Z-AI.md zamiast pola na link.
+- Linki w README, instrukcji uruchomienia i package.json wskazują właściwe repozytorium. Przy publikacji własnej wersji zastąp adres panbojek/finaro swoim adresem.
 - Wyłącznie fikcyjne dane w demo/portfolio.json, żadnych zrzutów rachunków.
 - Brak kluczy, danych logowania, plików .enc, eksportów i logów.
 - Nowa historia repozytorium obejmuje jeden początkowy commit oczyszczonej edycji demo, z własnym imieniem i nazwiskiem oraz adresem GitHub noreply.

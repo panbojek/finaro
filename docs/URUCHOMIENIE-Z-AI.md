@@ -8,11 +8,13 @@ Utwórz pusty folder na projekt, np. **Dokumenty → Moje aplikacje**. Otwórz t
 
 Jeśli używasz terminala: otwórz ten folder w Eksploratorze, wybierz **Otwórz w terminalu** (w Windows 10 może to być okno PowerShell), wpisz `claude` i naciśnij Enter. To zakłada już zainstalowane i skonfigurowane Claude Code.
 
-## Wklej link i polecenie
+## Wklej polecenie
 
 Repozytorium to folder z programem i instrukcjami udostępniony na GitHubie. [Pozostałe pojęcia](SLOWNICZEK.md).
 
-Skopiuj adres repozytorium z GitHuba i wstaw go w oznaczone miejsce poniżej. Claude Code pobierze projekt, sprawdzi wymagania i pomoże uruchomić aplikację. Nie musisz ręcznie pobierać ZIP-a ani obsługiwać Git.
+Polecenie poniżej zawiera już adres [repozytorium Finaro](https://github.com/panbojek/finaro). Skopiuj je w całości. Claude Code pobierze projekt, sprawdzi wymagania i pomoże uruchomić aplikację. Nie musisz ręcznie pobierać ZIP-a ani obsługiwać Git.
+
+Dostęp do prywatnego repozytorium wymaga uprawnień i zalogowania na GitHubie. Hasła ani tokena nie wklejaj do rozmowy. Jeśli nie masz dostępu, poproś właściciela repozytorium o jego nadanie.
 
 ```text
 Pomóż mi uruchomić lokalnie Finaro demo na moim komputerze z Windows.

@@ -15,7 +15,7 @@ macOS i Linux nie są obsługiwane przez ten sposób szyfrowania i launcher. Kod
 ## Pierwsza instalacja
 
 1. Pobierz instalator Node.js dla Windows i swojej architektury komputera. Zainstaluj z domyślnym dodaniem do PATH.
-2. Pobierz i rozpakuj ZIP projektu do dowolnego folderu, np. Dokumenty/Finaro-demo. Nie otwieraj programu bezpośrednio z ZIP.
+2. Otwórz [repozytorium Finaro](https://github.com/panbojek/finaro) i wybierz **Code → Download ZIP**, albo skorzystaj z [bezpośredniego pobierania ZIP](https://github.com/panbojek/finaro/archive/refs/heads/main.zip). Rozpakuj do dowolnego folderu, np. Dokumenty/Finaro-demo. Nie otwieraj programu bezpośrednio z ZIP. Repozytorium prywatne wymaga zalogowania na konto z nadanym dostępem.
 3. W rozpakowanym folderze znajdź README.md, dokumentację i katalog kod.
 4. W katalogu kod kliknij dwukrotnie Uruchom-Finaro.cmd w Eksploratorze Windows. Otwarcie tego pliku w edytorze tylko pokaże jego treść.
 5. Poczekaj na otwarcie przeglądarki pod http://127.0.0.1:47832. Pierwszy start tworzy osobny magazyn demo i zapisuje fikcyjny portfel.
