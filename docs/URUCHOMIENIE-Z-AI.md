@@ -28,7 +28,7 @@ lub pobierz i rozpakuj archiwum repozytorium.
 Dalsze kroki wykonuj w pobranym folderze projektu.
 
 Przeczytaj AGENTS.md, CLAUDE.md, README.md i docs/INSTALACJA.md.
-Najpierw sprawdź środowisko i obecność Node.js 24 LTS lub zgodnej wersji.
+Najpierw sprawdź środowisko i obecność Node.js 24 LTS (co najmniej 24.22.1) lub zgodnej wersji.
 Jeżeli czegoś brakuje, pomóż mi to zainstalować z oficjalnego źródła.
 Przed instalacją wyjaśnij krótko, co zostanie dodane do komputera.
 Nie zmieniaj globalnych zabezpieczeń Windows.

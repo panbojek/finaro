@@ -7,7 +7,7 @@ Możesz powierzyć sprawdzenie wymagań i uruchomienie Claude Code. **[Przewodni
 ## Wymagania
 
 - Windows 10 lub 11 i zwykłe konto użytkownika; aplikacja nie wymaga uruchamiania jako administrator.
-- Node.js 24 LTS z [oficjalnej strony](https://nodejs.org/en/download).
+- Node.js 24 LTS (co najmniej 24.22.1) z [oficjalnej strony](https://nodejs.org/en/download).
 - Windows PowerShell i aktualna przeglądarka.
 
 macOS i Linux nie są obsługiwane przez ten sposób szyfrowania i launcher. Kod interfejsu można przenieść, lecz trzeba zastąpić warstwę DPAPI i uruchamianie.

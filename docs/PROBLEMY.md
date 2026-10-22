@@ -3,7 +3,7 @@
 | Objaw | Co zrobić |
 |---|---|
 | Po kliknięciu widzę treść .cmd | Otwórz folder w Eksploratorze i uruchom plik dwuklikiem, zamiast otwierać w edytorze. |
-| Komunikat o braku Node.js | Zainstaluj Node.js 24 LTS z nodejs.org i otwórz ponownie Eksplorator. W terminalu `node --version` powinno pokazać wersję 24 lub nowszą zgodną z projektem. |
+| Komunikat o braku Node.js | Zainstaluj Node.js 24 LTS (co najmniej 24.22.1) z nodejs.org i otwórz ponownie Eksplorator. W terminalu `node --version` powinno pokazać wersję 24.22.1 lub nowszą z gałęzi 24 LTS. |
 | Otworzyłem index.html i nic nie zapisuje | Zamknij tę kartę i uruchom kod/Uruchom-Finaro.cmd. Adres powinien zaczynać się od http://127.0.0.1:47832. |
 | Port jest zajęty lub otwiera się inny program | Zakończ stare demo przez jego ustawienia. Nie zabijaj losowych procesów. Poproś AI o sprawdzenie portu 47832 bez odczytu prywatnych danych. |
 | Nie widzę ostatniej zmiany kodu | Odśwież F5. Po zmianach serwera zakończ aplikację i uruchom ją ponownie. |

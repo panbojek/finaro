@@ -20,6 +20,9 @@ try {
         $nodeCommand = Get-Command node.exe -ErrorAction SilentlyContinue
         if (!$nodeCommand) { throw 'Zainstaluj Node.js 24 LTS z nodejs.org, zamknij i otworz ponownie Eksplorator, a nastepnie ponow uruchomienie.' }
         $node = $nodeCommand.Source
+        $versionCheck = Join-Path $PSScriptRoot 'runtime-version.mjs'
+        & $node $versionCheck
+        if ($LASTEXITCODE -ne 0) { throw 'Zainstaluj Node.js 24 LTS w wersji co najmniej 24.22.1 z nodejs.org i ponow uruchomienie.' }
         $runtimeDir = Join-Path $env:LOCALAPPDATA 'FinaroDemo\demo-v1'
         [void](New-Item -ItemType Directory -Path $runtimeDir -Force)
         $runId = [guid]::NewGuid().ToString('N')

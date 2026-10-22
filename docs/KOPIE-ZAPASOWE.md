@@ -2,7 +2,7 @@
 
 ## Kiedy powstaje kopia?
 
-Nie musisz ręcznie klikać Zrób backup. Przed zastąpieniem zapisanego portfela aplikacja zachowuje jego poprzedni stan. Dotyczy to m.in. edycji, ręcznej wyceny, usuwania, zapisu symulacji oraz resetu demo. Pierwszy zapis tworzy dopiero plik danych; nie ma jeszcze wcześniejszego stanu do skopiowania.
+Nie musisz ręcznie klikać Zrób backup. Przed zastąpieniem zapisanego portfela aplikacja zachowuje jego poprzedni stan. Dotyczy to m.in. edycji, ręcznej wyceny, usuwania, zapisu symulacji ze zmianami oraz resetu demo. Ponowna symulacja bez zmiany cen, historii ani przypomnień nie zapisuje pliku i nie tworzy kolejnej kopii. Pierwszy zapis tworzy dopiero plik danych; nie ma jeszcze wcześniejszego stanu do skopiowania.
 
 Jeśli pomylisz kwotę lub usuniesz pozycję, wcześniejsza kopia może pozwolić wrócić do stanu sprzed tej zmiany. Kopia zawiera cały stan portfela, historię, alerty i ustawienia zapisane razem z nim. Nie jest kopią kodu aplikacji.
 

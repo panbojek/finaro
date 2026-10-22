@@ -1,6 +1,6 @@
 # Wspólne instrukcje dla asystentów
 
-Finaro demo to lokalny dashboard portfela z fikcyjnymi danymi, bez zależności npm. HTML/CSS/JS w kod/, serwer Node w kod/runtime/, Windows PowerShell i DPAPI dla zapisu. Wymagany Node 24 LTS. Wyjaśniaj zmiany prostą polszczyzną, zwykle pytaj o jedną potrzebę naraz. Użytkownik określa cel, asystent dobiera implementację i prowadzi notatki.
+Finaro demo to lokalny dashboard portfela z fikcyjnymi danymi, bez zależności npm. HTML/CSS/JS w kod/, serwer Node w kod/runtime/, Windows PowerShell i DPAPI dla zapisu. Wymagany Node 24 LTS (co najmniej 24.22.1). Wyjaśniaj zmiany prostą polszczyzną, zwykle pytaj o jedną potrzebę naraz. Użytkownik określa cel, asystent dobiera implementację i prowadzi notatki.
 
 - Zachowaj osobny port 47832, magazyn FinaroDemo/demo-v1 i mutex FinaroDemo. Nie podłączaj demo do danych innych aplikacji.
 - Dane początkowe w demo/portfolio.json są syntetyczne. Nie wstawiaj tam prawdziwych danych, kluczy ani zrzutów rachunków. Sekrety, eksporty i kopie zostają poza repozytorium.

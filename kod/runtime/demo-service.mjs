@@ -26,7 +26,10 @@ export class DemoService extends Service{
   }
   if(changed||(s.products.length&&s.history.at(-1)?.date!==today))snapshot(s,'synthetic');
   addDividendReminders(s,today);
-  s.hasKey=false;s.lastCheck={at:new Date().toISOString(),messages:['SYMULACJA: ceny i kursy walut wygenerowano lokalnie. Nie pobrano notowań ani informacji z rynku.']};
+  s.hasKey=false;
+  // An attempted check timestamp alone does not warrant encryption, a new revision or a backup.
+  if(JSON.stringify(s)===JSON.stringify(this.state))return this.view();
+  s.lastCheck={at:new Date().toISOString(),messages:['SYMULACJA: ceny i kursy walut wygenerowano lokalnie. Nie pobrano notowań ani informacji z rynku.']};
   await this.commit(s);return this.view();
  }
 }
