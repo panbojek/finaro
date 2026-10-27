@@ -1,5 +1,13 @@
 # Finaro demo
 
+**Wartość, wynik i historia Twojego portfela w jednym miejscu.**
+
+Lokalna aplikacja dla Windows 10/11 do przeglądania inwestycji z różnych rachunków.
+
+![Podgląd Finaro: wartość portfela, zysk i strata, podział aktywów oraz wykres historii](docs/obrazy/01-demo.png)
+
+*Widok demonstracyjny. Wszystkie produkty, kwoty, kursy i historia na zrzucie są fikcyjne.*
+
 [Repozytorium GitHub](https://github.com/panbojek/finaro) · [Pobierz projekt](https://github.com/panbojek/finaro/archive/refs/heads/main.zip) · [Zgłoś problem](https://github.com/panbojek/finaro/issues)
 
 **Wersja 1.0.13** · [Numeracja i wydania](docs/WYDANIA.md)
