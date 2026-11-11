@@ -72,4 +72,4 @@ Dla osób rozwijających projekt: [mapa kodu i testy](docs/ROZWOJ.md), [zakres w
 
 [Instrukcja publikacji repozytorium](docs/GITHUB.md).
 
-Kod: [MIT](LICENSE). Znaki marki: [ASSETS.md](ASSETS.md). Powered by [BOYEK.IO](https://boyek.io).
+Kod: [MIT](LICENSE). Znaki marki: [ASSETS.md](ASSETS.md). Powered by [BOYEK.PRO](https://boyek.pro).
